@@ -1,0 +1,38 @@
+command /hub:
+  trigger:
+    make player execute "/bw leave"
+    make player execute "/sw quit"
+    make player execute "/bw leave"
+    make player execute "/sumo leave"
+    make player execute "/pa leave"
+    make player execute "/ma leave"
+    make player execute "/vampire leave"
+    make player execute "/spleef leave"
+    make player execute "/kbffa leave"
+    make player execute "/lobby"
+
+command /spawn:
+  trigger:
+    make player execute "/bw leave"
+    make player execute "/sw quit"
+    make player execute "/bw leave"
+    make player execute "/sumo leave"
+    make player execute "/pa leave"
+    make player execute "/ma leave"
+    make player execute "/vampire leave"
+    make player execute "/spleef leave"
+    make player execute "/kbffa leave"
+    make player execute "/lobby"
+
+command /leave:
+  trigger:
+    make player execute "/bw leave"
+    make player execute "/sw quit"
+    make player execute "/bw leave"
+    make player execute "/sumo leave"
+    make player execute "/pa leave"
+    make player execute "/ma leave"
+    make player execute "/vampire leave"
+    make player execute "/spleef leave"
+    make player execute "/kbffa leave"
+    make player execute "/lobby"
